@@ -5,8 +5,7 @@
 
 [google]: https://www.google.com
 [Hand Gesture Classification Based On Surface Emg Signals For Online Hand Prosthetics Control
-]([https://github.com/MostafaFiroozi/HAND_GESTURE_CLASSIFICATION_BASED_ON_SURFACE_EMG_SIGNALS_FOR_ONLINE_HAND_PROSTHETICS_CONTROL
-] 
+](https://github.com/MostafaFiroozi/HAND_GESTURE_CLASSIFICATION_BASED_ON_SURFACE_EMG_SIGNALS_FOR_ONLINE_HAND_PROSTHETICS_CONTROL)
 
 
 - 📫 How to reach me mostafa.firoozi.arani@gmail.com
