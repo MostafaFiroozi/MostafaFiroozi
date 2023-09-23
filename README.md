@@ -6,6 +6,7 @@ HAND GESTURE CLASSIFICATION BASED ON SURFACE EMG SIGNALS FOR ONLINE HAND PROSTHE
 Description: We implemented 5 classical classifiers and a CNN to classify 8 different hand gestures which can be used for control system of Hand Prosthetics.
 Technologies: [Keras, MatplotLib, Pandas, Numpy, MATLAB, SKlearn]
 GitHub Repository: [ https://github.com/MostafaFiroozi/HAND_GESTURE_CLASSIFICATION_BASED_ON_SURFACE_EMG_SIGNALS_FOR_ONLINE_HAND_PROSTHETICS_CONTROL ]
+<a href="https://github.com/your-username" class="github-button">GitHub</a>
 
 
 
