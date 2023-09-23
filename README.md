@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MostafaFiroozi, Master's student of Electronic Technology in Biomedical Engineering at Politechnic University of Milan.
-- 👀 I’m interested in AI applications in Biomedical Engineering  
-- 🌱 I’m currently learning Medical Image Analysis using Artificial Neural Networks
-- 💞️ I’m looking to collaborate on open source projects on medical computer vision and medical signal processing.
-- 📫 How to reach me mostafa.firoozi@mail.polimi.it
+- 👋 Hi, I’m @MostafaFiroozi, Computer Vision Engineer at Alascom company in Milan. 
+ The main focus of my work is developement of artificial intelligence based image processing algorithms to solve industrial problems in different domains. I usually use python, MATLAB and c++ to do my projects. Here you can see someof my projects in different fields.
+
+
+
+- 📫 How to reach me mostafa.firoozi.arani@gmail.com
 
 <!---
 MostafaFiroozi/MostafaFiroozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
