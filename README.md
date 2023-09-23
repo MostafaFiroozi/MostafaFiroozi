@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MostafaFiroozi, Computer Vision Engineer at Alascom company in Milan. 
  The main focus of my work is developement of artificial intelligence based image processing algorithms to solve industrial problems in different domains. I usually use python, MATLAB and c++ to do my projects. Here you can see someof my projects in different fields.
 
-- Deeplearning: 
+- Deeplearning: /n
 HAND GESTURE CLASSIFICATION BASED ON SURFACE EMG SIGNALS FOR ONLINE HAND PROSTHETICS CONTROL
 Description: We implemented 5 classical classifiers and a CNN to classify 8 different hand gestures which can be used for control system of Hand Prosthetics.
 Technologies: [Keras, MatplotLib, Pandas, Numpy, MATLAB, SKlearn]
